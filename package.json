@@ -1,0 +1,19 @@
+{
+  "name": "education",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "sass app/assets/scss:app/assets/dist",
+    "watch": "sass --watch app/assets/scss:app/assets/dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "18.x"
+  },
+  "devDependencies": {
+    "sass": "^1.70.0"
+  }
+}
+
